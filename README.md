@@ -27,32 +27,6 @@
 ---
 
 > ### 💡 *"Transforming data into insights and building scalable cloud solutions with AWS."*
->
-> <div align="center">
-
-# 👋 Hi, I'm Sourojeet Ganguly
-
-### Data Analyst | Power BI Developer | SQL | Python | Business Intelligence
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=Turning+Raw+Data+into+Actionable+Insights;Power+BI+%7C+SQL+%7C+Python+%7C+Excel;Data+Analytics+%7C+Business+Intelligence;Always+Learning+Something+New"/>
-
-<p>
-
-<a href="mailto:gangulysourojeet@gmail.com">
-<img src="https://img.shields.io/badge/Email-gangulysourojeet@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/sourojeet-ganguly-b79387250/">
-<img src="https://img.shields.io/badge/LinkedIn-Sourojeet_Ganguly-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=sganguly23&style=for-the-badge&color=blue&label=PROFILE+VIEWS"/>
-
-</p>
-
-</div>
-
----
 
 # 💫 About Me
 
