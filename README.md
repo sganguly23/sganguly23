@@ -34,21 +34,59 @@
 class SourojeetGanguly:
 
     def __init__(self):
-        self.role = "Data Analyst"
-        self.education = "B.Tech Computer Science Engineering (2026)"
-        self.location = "India"
-        self.current_focus = [
-            "Power BI",
-            "SQL",
-            "Python",
-            "Machine Learning",
-            "Cloud Computing"
+
+        self.name = "Sourojeet Ganguly"
+
+        self.role = [
+            "📊 Data Analyst",
+            "☁️ AWS Cloud Developer",
+            "📈 Power BI Developer"
         ]
 
-    def mission(self):
-        return "Transforming complex data into meaningful business insights."
-```
+        self.education = "🎓 B.Tech in Computer Science Engineering (2026)"
 
+        self.interests = [
+            "Business Intelligence",
+            "Cloud Computing",
+            "Data Analytics",
+            "Machine Learning",
+            "Data Visualization"
+        ]
+
+        self.tech_stack = {
+            "Languages": ["Python", "SQL", "Java", "C++"],
+            "Analytics": ["Power BI", "Excel", "Tableau"],
+            "Database": ["MySQL", "MongoDB"],
+            "Cloud": {
+                "Platform": "AWS",
+                "Services": [
+                    "EC2",
+                    "Lambda",
+                    "RDS",
+                    "S3",
+                    "IAM",
+                    "VPC",
+                    "CloudFront",
+                    "Amplify"
+                ]
+            }
+        }
+
+        self.currently_learning = [
+            "AWS Solution Architecture",
+            "Machine Learning",
+            "Data Engineering",
+            "System Design"
+        ]
+
+        self.goal = (
+            "To build intelligent data products, scalable cloud "
+            "applications, and impactful business solutions."
+        )
+
+    def life_philosophy(self):
+        return "Transforming raw data into business value while building scalable solutions on the cloud. ☁️📊🚀"
+```
 ---
 
 # 🚀 Tech Stack
