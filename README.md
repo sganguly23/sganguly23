@@ -182,16 +182,37 @@ class SourojeetGanguly:
 - Presented financial insights to leadership.
 
 ---
+# ☁️ AWS & Cloud Expertise
 
-## 📊 GitHub Statistics
+| Service | Experience |
+|----------|------------|
+| ☁️ EC2 | ⭐⭐⭐⭐☆ |
+| 📦 S3 | ⭐⭐⭐⭐⭐ |
+| 🔐 IAM | ⭐⭐⭐⭐☆ |
+| ⚡ Lambda | ⭐⭐⭐☆☆ |
+| 🗄️ RDS | ⭐⭐⭐⭐☆ |
+| 🌐 VPC | ⭐⭐⭐⭐☆ |
+| 🚀 Amplify | ⭐⭐⭐⭐☆ |
+| 🌍 CloudFront | ⭐⭐⭐☆☆ |
+# 📚 Currently Learning
 
-<div align="center">
+```text
+☁️ AWS Solution Architecture
+███████████████░░░ 85%
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sganguly23&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true"/>
+📊 Power BI Advanced DAX
+█████████████████░ 90%
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sganguly23&layout=compact&theme=tokyonight&hide_border=true"/>
+🐍 Python for Data Analytics
+████████████████░░ 88%
 
-</div>
+🗄️ SQL Query Optimization
+█████████████████░ 92%
+
+🤖 Machine Learning
+████████████░░░░░░ 70%
+```
+
 
 ## 🔥 GitHub Streak
 
@@ -220,6 +241,15 @@ class SourojeetGanguly:
 </div>
 
 ---
+
+# 🎯 2026 Goals
+
+- ✅ Secure a Data Analyst / Cloud Internship
+- ☁️ Earn AWS Cloud Certifications
+- 📊 Build 15+ end-to-end Power BI projects
+- 🗄️ Master SQL and Database Optimization
+- 🤖 Learn Machine Learning and MLOps
+- 🌐 Contribute to Open Source Projects
 
 # 📫 Let's Connect
 
