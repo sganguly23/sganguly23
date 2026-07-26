@@ -232,16 +232,6 @@ class SourojeetGanguly:
 
 ---
 
-<div align="center">
-
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=sganguly23&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
 # 🎯 2026 Goals
 
 - ✅ Secure a Data Analyst / Cloud Internship
