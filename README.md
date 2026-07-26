@@ -1,150 +1,221 @@
 <div align="center">
     
-```
+```text
 ███████╗ ██████╗ ██╗   ██╗██████╗  ██████╗      ██╗███████╗███████╗████████╗
 ██╔════╝██╔═══██╗██║   ██║██╔══██╗██╔═══██╗     ██║██╔════╝██╔════╝╚══██╔══╝
-███████╗██║   ██║██║   ██║██████╔╝██║   ██║     ██║█████╗  █████╗     ██║   
-╚════██║██║   ██║██║   ██║██╔══██╗██║   ██║██   ██║██╔══╝  ██╔══╝     ██║   
-███████║╚██████╔╝╚██████╔╝██║  ██║╚██████╔╝╚█████╔╝███████╗███████╗   ██║   
-╚══════╝ ╚═════╝  ╚═════╝ ╚═╝  ╚═╝ ╚═════╝  ╚════╝ ╚══════╝╚══════╝   ╚═╝ 
+███████╗██║   ██║██║   ██║██████╔╝██║   ██║     ██║█████╗  █████╗     ██║
+╚════██║██║   ██║██║   ██║██╔══██╗██║   ██║██   ██║██╔══╝  ██╔══╝     ██║
+███████║╚██████╔╝╚██████╔╝██║  ██║╚██████╔╝╚█████╔╝███████╗███████╗   ██║
+╚══════╝ ╚═════╝  ╚═════╝ ╚═╝  ╚═╝ ╚═════╝  ╚════╝ ╚══════╝╚══════╝   ╚═╝
 ```
 
-# Hey there! I'm Sourojeet Ganguly 👋
+# 👋 Hey there! I'm Sourojeet Ganguly
 
-### `< Data Analyst />` · `{ SQL · Python · Power BI }` · `[ Turning Raw Data into Real Decisions ]`
+### `< Data Analyst />` • `{ SQL • Python • Power BI }` • `[ Turning Raw Data into Real Decisions ]`
 
-[![Gmail](https://img.shields.io/badge/Gmail-gangulysourojeet%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gangulysourojeet@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sourojeet_Ganguly-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sourojeet-ganguly)
-[![Phone](https://img.shields.io/badge/Phone-%2B91_8130784245-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+918130784245)
+<p align="center">
+<a href="mailto:gangulysourojeet@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-gangulysourojeet%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/sourojeet-ganguly-b79387250/">
+<img src="https://img.shields.io/badge/LinkedIn-Sourojeet_Ganguly-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="tel:+918130784245">
+<img src="https://img.shields.io/badge/Phone-%2B91_8130784245-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+</p>
 
 </div>
 
 ---
 
-## 🧠 About Me
+# 🧠 About Me
 
 ```python
-sourojeet = {
-    "role"        : "Data Analyst (Fresher)",
-    "education"   : "B.Tech CSE @ VIT (2026)",
-    "location"    : "India 🇮🇳",
-    "superpower"  : "Transforming messy data into clear, actionable insights",
-    "currently"   : "Building dashboards · Learning ML · Exploring Cloud",
-    "fun_fact"    : "I led a finance team before even graduating 📊"
-}
+class SourojeetGanguly:
+
+    def __init__(self):
+        self.role = "Data Analyst"
+        self.education = "B.Tech Computer Science Engineering"
+        self.location = "India 🇮🇳"
+        self.skills = [
+            "SQL",
+            "Python",
+            "Power BI",
+            "Excel",
+            "Tableau"
+        ]
+
+    def mission(self):
+        return "Transform raw data into meaningful business insights."
 ```
 
-> *"Data is just noise until someone gives it meaning — that's where I come in."*
+> **"Data is just noise until someone gives it meaning."**
 
 ---
 
-## 🛠️ Tech Stack
+# 🚀 Tech Stack
 
 <div align="center">
 
-### 📊 Data & Analytics
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
+## 📊 Analytics
 
-### 📈 Visualization
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,mysql,mongodb"/>
 
-### 🧪 Libraries & ML
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 
-### 🧰 Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+---
+
+## 📚 Libraries
+
+<img src="https://skillicons.dev/icons?i=pytorch"/>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge"/>
+
+---
+
+## 🛠 Tools
+
+<img src="https://skillicons.dev/icons?i=git,vscode,aws"/>
+
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter"/>
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 🏥 Healthcare Risk Analysis Dashboard
-> **Power BI · Excel · DAX · Power Query**
+## 🏥 Healthcare Risk Analysis Dashboard
 
-Built an end-to-end Power BI dashboard for **ulcer health risk analysis**:
-- 🔍 Applied **Power Query** for data cleaning & modeling
-- 📐 Used **DAX** to calculate key risk indicators and KPIs
-- 🎛️ Enabled **interactive analysis** with slicers and dynamic filters
-- 💡 Translated complex clinical data into visual insights to flag high-risk patients
+**Power BI • Excel • DAX • Power Query**
 
----
+✔ Built an end-to-end healthcare analytics dashboard.
 
-### 🏦 Bank Loan Analysis Dashboard
-> **Power BI · Tableau · SQL · Python · Excel · DAX**
+✔ Cleaned and transformed healthcare datasets using Power Query.
 
-Full-stack finance data analysis project:
-- 🗄️ **SQL + Python** for data extraction, cleaning, and transformation
-- 📊 Built **dual dashboards** (Power BI + Tableau) to track financial KPIs
-- 💼 Delivered decision-ready insights for stakeholders
-- ⚡ End-to-end pipeline from raw data → polished visual report
+✔ Created DAX measures and KPIs for risk assessment.
+
+✔ Designed interactive dashboards using slicers, drill-throughs and dynamic filtering.
+
+✔ Enabled healthcare professionals to identify high-risk patients quickly.
 
 ---
 
-## 🏆 Certifications
+## 🏦 Bank Loan Analysis Dashboard
 
-| 🎓 Certificate | 🏢 Issuer |
-|---|---|
-| Data Analytics Job Simulation | **Deloitte** |
-| MongoDB Associate Database Administrator | **MongoDB / FACE Prep** |
-| AWS Solutions Architect (Associate-Level Training) | **ETHNUS** |
-| The Bits and Bytes of Computer Networking | **Google / Coursera** |
+**Power BI • Tableau • SQL • Python**
 
----
+✔ Extracted and transformed financial data.
 
-## 💼 Leadership
+✔ Developed dashboards in both Tableau and Power BI.
 
-**🔧 Head, Finance Team — VITRONIX Club** *(Jun 2024 – May 2025)*
-- 📋 Led budget tracking, expense management & financial reporting via structured spreadsheets
-- 📉 Analyzed income vs. expenditure trends to optimize club spending
-- 🗂️ Created visual financial summaries presented to club leadership
+✔ Created interactive KPIs for loan performance.
+
+✔ Delivered actionable business insights for stakeholders.
 
 ---
 
-## 📊 GitHub Stats
+# 🏆 Certifications
+
+| Certificate | Organization |
+|-------------|--------------|
+| Data Analytics Job Simulation | Deloitte |
+| MongoDB Associate Database Administrator | MongoDB |
+| AWS Solutions Architect Training | ETHNUS |
+| Computer Networking | Google Coursera |
+
+---
+
+# 💼 Leadership Experience
+
+### Head of Finance Team — VITRONIX Club
+
+- Managed club finances and budgets.
+- Built financial reports using Excel.
+- Analysed spending patterns.
+- Presented reports to club leadership.
+
+---
+
+# 📊 GitHub Analytics
 
 <div align="center">
 
-![Sourojeet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sganguly23&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sganguly23&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sganguly23&layout=compact&theme=tokyonight&hide_border=true)
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sganguly23&layout=compact&theme=tokyonight&hide_border=true"/>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=sganguly23&theme=tokyonight&hide_border=true)
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sganguly23&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sganguly23&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
 ---
 
-## 📬 Let's Connect!
+# 🏆 GitHub Trophies
 
 <div align="center">
 
-Got a dataset that needs taming? A dashboard idea? Or just want to talk data?
+[![Trophy](https://github-profile-trophy.vercel.app/?username=sganguly23&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
-**I'm always open to collaborations, internships, and data challenges! 🚀**
-
-[![Email Me](https://img.shields.io/badge/📧_Email_Me-gangulysourojeet%40gmail.com-red?style=for-the-badge)](mailto:gangulysourojeet@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/🔗_Connect_on_LinkedIn-blue?style=for-the-badge)](https://linkedin.com/in/sourojeet-ganguly)
+</div>
 
 ---
 
-![Visitor Count](https://komarev.com/ghpvc/?username=sganguly23&color=blue&style=for-the-badge&label=PROFILE+VIEWS)
+# 📈 Contribution Snake
 
-*⭐ If you find my work useful, drop a star on a repo — it means the world!*
+<div align="center">
+
+![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+# 📬 Let's Connect
+
+<div align="center">
+
+### 📧 Email
+
+**gangulysourojeet@gmail.com**
+
+### 💼 LinkedIn
+
+https://www.linkedin.com/in/sourojeet-ganguly-b79387250/
+
+---
+
+### 👀 Profile Views
+
+![](https://komarev.com/ghpvc/?username=sganguly23&style=for-the-badge&color=blue)
+
+---
+
+### ⭐ Thanks for visiting!
+
+*"Open to internships, collaborations and exciting data analytics opportunities."*
 
 </div>
